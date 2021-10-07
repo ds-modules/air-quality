@@ -1,5 +1,0 @@
-purpleair
-geopandas
-ipywidgets==7.6.3
-contextily==1.1.0
-descartes==1.1.0
