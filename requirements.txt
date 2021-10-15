@@ -1,0 +1,6 @@
+matplotlib
+geopandas 
+numpy 
+purpleair
+geopandas
+folium
