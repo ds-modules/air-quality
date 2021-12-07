@@ -4,3 +4,4 @@ numpy
 purpleair
 geopandas
 folium
+ipywidgets
