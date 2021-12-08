@@ -5,3 +5,5 @@ purpleair
 geopandas
 folium
 ipywidgets
+datetime
+IPython
