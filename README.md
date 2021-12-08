@@ -1,7 +1,7 @@
 # Air-Quality
 **Instructors**: This notebook is being developed for multiple possible outcomes, with the idea of reading in data from the PurpleAir API and giving students an opportunity to explore Air Quality issues 
 
-**Developers**: Maham Bawaney, Melisa Esqueda & Ziyue (Kate) Li
+**Developers**: Maham Bawaney & Melisa Esqueda
 
 **Team Lead**: Karalyn Chong
 
