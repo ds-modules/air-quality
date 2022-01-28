@@ -7,3 +7,4 @@ folium
 ipywidgets
 datetime
 IPython
+openpyxl
